@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hdaond.github.io/aJX/sitemap.aJX.gz
